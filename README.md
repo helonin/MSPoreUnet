@@ -5,6 +5,8 @@ Schematic view of MSPoreU-net architecture in below figure. In this model, the s
 
 ![MSPoreModel](https://user-images.githubusercontent.com/50166193/110905845-631d7880-8320-11eb-97f3-61ef3e40d61a.jpg)
 
+The required packages to use this python repository are: 'os','numpy', 'scipy', 'h5py', 'tensorflow', 'matplotlib', 'keras', 'skimage', 'cv2', and 'pandas'. I recommend to use Anaconda which has all these packages installed except cv2 and tensorflow of which you can easily install from pip.
+
 Example:
 Comparation of different pore scales: (a). Tight-carbonate sample has fine-size pores, (b). Sandstone sample has medium-size pores and (c). Carbonate sample has multi-scale coarse-size pores.
 
@@ -12,3 +14,11 @@ Comparation of different pore scales: (a). Tight-carbonate sample has fine-size 
 
 We visualize some outputs of employed methods on all three datasets, to qualitatively demonstrate the effectiveness of our proposed MSPoreU-net model in below figure:
 ![resualt3V2](https://user-images.githubusercontent.com/50166193/110901951-5433c780-831a-11eb-839e-0519151c1cd8.jpg)
+
+
+
+Mohsen Abdolahzadeh Kondori
+University of Tehran
+Phone:+989150465172
+Email: MohsenKondori@ut.ac.ir
+       MohsenKondori@yahoo.com
