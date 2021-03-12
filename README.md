@@ -17,8 +17,8 @@ We visualize some outputs of employed methods on all three datasets, to qualitat
 
 
 
-Mohsen Abdolahzadeh Kondori
-University of Tehran
-Phone:+989150465172
-Email: MohsenKondori@ut.ac.ir
-       MohsenKondori@yahoo.com
+Mohsen Abdolahzadeh Kondori;
+University of Tehran;
+Phone:+989150465172;
+Email: MohsenKondori@ut.ac.ir;
+       MohsenKondori@yahoo.com;
