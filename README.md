@@ -12,10 +12,6 @@ Comparation of different pore scales: (a). Tight-carbonate sample has fine-size 
 
 ![Imagesforcompare](https://user-images.githubusercontent.com/50166193/110902698-872a8b00-831b-11eb-8b3b-8aba151875da.jpg)
 
-We visualize some outputs of employed methods on all three datasets, to qualitatively demonstrate the effectiveness of our proposed MSPoreU-net model in below figure:
-![resualt3V2](https://user-images.githubusercontent.com/50166193/110901951-5433c780-831a-11eb-839e-0519151c1cd8.jpg)
-
-
 
 Mohsen Abdolahzadeh Kondori
 University of Tehran
