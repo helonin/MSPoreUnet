@@ -1,5 +1,5 @@
 # MSPoreU-net: A novel U-net architecture to exploit multi-scale pores in segmentation of digital rock images 
-MSPoreU-net is a unet workflow for better results in performance, run time, the number of trainable parameters, and network predictions in rock image segmentation. To assess the performance of the proposed MSPoreU-net architecture, we have tested and evaluated it on three different sets of rock images including Tight-carbonate, Sandstone, and Carbonate. 
+MSPoreU-net is a convolutional neural network workflow for better results in performance, run time, the number of trainable parameters, and network predictions in rock image segmentation. To assess the performance of the proposed MSPoreU-net architecture, we have tested and evaluated it on three different sets of rock images including Tight-carbonate, Sandstone, and Carbonate. 
 
 Schematic view of MSPoreU-net architecture in below figure. In this model, the sequences of three convolutional layers in the U-net architecture are replaced with the MSPore blocks. Furthermore, instead of using plain skip connections, the proposed MSPoreSkip block sequence are used.
 
